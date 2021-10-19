@@ -1,3 +1,6 @@
 const a = 50;
 const b =100;
-const r =8;
+
+const m =78;
+const j =34;
+
